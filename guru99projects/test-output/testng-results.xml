@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Test Suite" duration-ms="27216" started-at="2017-08-13T09:32:15Z" finished-at="2017-08-13T09:32:42Z">
+  <suite name="Test Suite" duration-ms="11298" started-at="2017-08-14T16:09:58Z" finished-at="2017-08-14T16:10:10Z">
     <groups>
     </groups>
-    <test name="Run multiple tests" duration-ms="27216" started-at="2017-08-13T09:32:15Z" finished-at="2017-08-13T09:32:42Z">
-      <class name="loginverification.LoginValidation">
-        <test-method status="PASS" signature="loginusingcorrectdetails()[pri:0, instance:loginverification.LoginValidation@458ad742]" name="loginusingcorrectdetails" duration-ms="8364" started-at="2017-08-13T02:32:15Z" finished-at="2017-08-13T02:32:23Z">
+    <test name="Run multiple tests" duration-ms="11298" started-at="2017-08-14T16:09:58Z" finished-at="2017-08-14T16:10:10Z">
+      <class name="loginverification.LoginDetailsEnhancement">
+        <test-method status="PASS" signature="gettitle()[pri:0, instance:loginverification.LoginDetailsEnhancement@458ad742]" name="gettitle" duration-ms="11282" started-at="2017-08-14T09:09:58Z" finished-at="2017-08-14T09:10:10Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- loginusingcorrectdetails -->
-        <test-method status="PASS" signature="tovalidatewithcorrectdetails()[pri:0, instance:loginverification.LoginValidation@458ad742]" name="tovalidatewithcorrectdetails" duration-ms="7743" started-at="2017-08-13T02:32:23Z" finished-at="2017-08-13T02:32:31Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tovalidatewithcorrectdetails -->
-        <test-method status="PASS" signature="tovalidatewithincorrectdetails()[pri:0, instance:loginverification.LoginValidation@458ad742]" name="tovalidatewithincorrectdetails" duration-ms="11109" started-at="2017-08-13T02:32:31Z" finished-at="2017-08-13T02:32:42Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tovalidatewithincorrectdetails -->
-      </class> <!-- loginverification.LoginValidation -->
+        </test-method> <!-- gettitle -->
+      </class> <!-- loginverification.LoginDetailsEnhancement -->
     </test> <!-- Run multiple tests -->
   </suite> <!-- Test Suite -->
 </testng-results>

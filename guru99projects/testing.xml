@@ -3,8 +3,8 @@
 <suite name="Test Suite" verbose="2">
     <test name="Run multiple tests">
         <classes>
-     <class name="loginverification.LoginValidation"/> 
-    
+     <!-- <class name="loginverification.LoginValidation"/> --> 
+    <class name="loginverification.LoginDetailsEnhancement"/> 
      
         
         </classes>
