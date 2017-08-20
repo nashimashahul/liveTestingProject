@@ -40,6 +40,8 @@ public class LoginUsingDataProviders {
 		return data;
 	}
 	
+	//instead of testing.xml file..we are passing values from same file and
+	//we can assign more value to a single parameter
 	
 	
 	
